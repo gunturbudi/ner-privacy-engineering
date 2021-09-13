@@ -1,0 +1,3890 @@
+Information O
+about O
+an O
+individual's B-Data Subject
+interests B-PII
+
+Information O
+that O
+describes O
+an O
+individual’s B-Data Subject
+origins B-PII
+and I-PII
+lineage I-PII
+
+As O
+a O
+camp B-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+keep B-Processing
+camper B-PII
+records I-PII
+from O
+previous O
+years, O
+so O
+that O
+the O
+amount O
+of O
+work O
+I O
+need O
+to O
+do O
+is O
+lowered. O
+
+As O
+an O
+administrator, B-Data Subject
+I O
+want O
+to O
+see B-Processing
+comprehensive O
+tracking B-PII
+statistics I-PII
+that O
+can O
+be O
+presented O
+to O
+faculty O
+in O
+a O
+digestible O
+way, O
+so O
+that O
+I O
+can O
+increase O
+buy-in O
+for O
+contributing O
+their O
+work. O
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+ensure O
+that O
+dataset B-PII
+creation B-Processing
+fails O
+if O
+the O
+dataset B-PII
+cannot O
+be O
+enabled O
+for O
+explore. B-Processing
+
+As O
+a O
+Zooniverse B-Data Subject
+admin, I-Data Subject
+I O
+want O
+to O
+detect B-Processing
+when O
+a O
+scientist B-Data Subject
+should O
+be O
+prompted B-Processing
+to O
+look O
+at O
+a O
+subject, B-PII
+based O
+on O
+annotations B-PII
+and O
+information O
+from O
+Talk O
+comments. B-PII
+
+As O
+a O
+site B-Data Subject
+member, I-Data Subject
+I O
+want O
+to O
+mark B-Processing
+my O
+profile B-PII
+as O
+private O
+in O
+which O
+case O
+only O
+my O
+name B-PII
+will O
+appear, O
+so O
+that O
+no O
+one O
+can O
+learn B-Processing
+things O
+about O
+me O
+I O
+don't O
+want O
+shared. O
+
+As O
+a O
+superuser, B-Data Subject
+I O
+want O
+to O
+view B-Processing
+users' B-Data Subject
+stats, B-PII
+so O
+that O
+I O
+can O
+view O
+in O
+real-time O
+how O
+many O
+users O
+have O
+visited O
+my O
+recycling O
+center O
+information O
+and O
+their O
+recyclable O
+waste. O
+
+As O
+a O
+developer, B-Data Subject
+I O
+want O
+to O
+have O
+an O
+easy O
+way O
+to O
+read B-Processing
+data B-PII
+from O
+health B-PII
+sensors I-PII
+the O
+user B-Data Subject
+is O
+wearing. O
+
+Information O
+about O
+associations B-PII
+in I-PII
+a I-PII
+social I-PII
+network I-PII
+with O
+other O
+individuals, O
+groups, O
+or O
+entities O
+e.g. O
+friend B-PII
+of I-PII
+a I-PII
+friend I-PII
+
+Create O
+and O
+provide O
+personalised B-PII
+recommendations I-PII
+for O
+events O
+to O
+the O
+individual B-Data Subject
+
+Information O
+about O
+an O
+individual's B-Data Subject
+character B-PII
+in O
+the O
+public O
+sphere O
+
+As O
+an O
+app B-Data Subject
+developer, I-Data Subject
+I O
+want O
+to O
+explore B-Processing
+a O
+dataset B-PII
+instance I-PII
+of O
+a O
+type O
+that O
+was O
+deployed O
+as O
+part O
+of O
+an O
+app. O
+
+As O
+a O
+dataset B-Data Subject
+developer, I-Data Subject
+I O
+want O
+to O
+deploy O
+a O
+new O
+version O
+of O
+a O
+dataset O
+type O
+without O
+affecting B-Processing
+the O
+dataset B-PII
+instances I-PII
+of O
+that O
+type. O
+
+As O
+a O
+collection B-Data Subject
+curator, I-Data Subject
+I O
+want O
+to O
+map B-Processing
+an O
+item B-PII
+or O
+items B-PII
+from O
+one O
+collection B-PII
+to O
+another, O
+so O
+that O
+an O
+item O
+may O
+administratively O
+belong O
+to O
+one O
+collection O
+but O
+could O
+appear O
+in O
+other O
+collections. O
+
+As O
+a O
+depositor, B-Data Subject
+I O
+want O
+to O
+deposit B-Processing
+and O
+maintain B-Processing
+datasets B-PII
+through O
+Pure, O
+so O
+that O
+I O
+have O
+a O
+single O
+onestop O
+shop O
+for O
+managing B-Processing
+my O
+research B-PII
+outputs. I-PII
+
+As O
+an O
+System B-Data Subject
+Administrator, I-Data Subject
+I O
+want O
+to O
+declare B-Processing
+that O
+a O
+user B-Data Subject
+is O
+has O
+the O
+Repository O
+Manager O
+role B-PII
+for O
+a O
+given O
+Repository. B-PII
+
+Information O
+related O
+to O
+an O
+individual's B-Data Subject
+mental B-PII
+health. I-PII
+
+As O
+a O
+Research B-Data Subject
+Centre I-Data Subject
+Director, I-Data Subject
+I O
+want O
+to O
+receive B-Processing
+regular O
+summary O
+reports O
+of O
+research O
+data, O
+so O
+that O
+I O
+understand B-Processing
+trends O
+in O
+data B-PII
+use I-PII
+among O
+staff B-Data Subject
+and O
+postgraduate B-Data Subject
+students. I-Data Subject
+
+As O
+a O
+Researcher, B-Data Subject
+I O
+want O
+results B-PII
+to O
+be O
+stored B-Processing
+in O
+a O
+non-identifiable O
+way, O
+so O
+that O
+I O
+can O
+study O
+the O
+data B-PII
+to O
+see O
+things O
+like O
+whether O
+estimates O
+converged O
+around O
+the O
+first O
+opinion B-PII
+given O
+by O
+"estimator B-Data Subject
+A" I-Data Subject
+for O
+example. O
+
+As O
+a O
+parent, B-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+sign B-Processing
+and O
+submit B-Processing
+consent B-PII
+forms I-PII
+online, O
+so O
+that O
+I O
+don't O
+have O
+to O
+deal O
+with O
+my O
+child B-Data Subject
+losing O
+a O
+consent B-PII
+form. I-PII
+
+As O
+a O
+camp B-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+store B-Processing
+campers' B-Data Subject
+emergency B-PII
+information I-PII
+in O
+a O
+database, O
+so O
+that O
+I O
+can O
+easily O
+notify O
+the O
+necessary O
+parties O
+in O
+case O
+of O
+an O
+emergency. O
+
+As O
+a O
+Research B-Data Subject
+Information I-Data Subject
+manager, I-Data Subject
+I O
+want O
+to O
+track O
+citation O
+counts O
+for O
+published O
+datasets, O
+so O
+that O
+impact O
+of O
+datasets O
+within O
+academia B-Data Subject
+can O
+be O
+demonstrated. O
+
+As O
+an O
+OlderPerson, B-Data Subject
+I O
+want O
+to O
+have O
+ALFRED O
+to O
+detect B-Processing
+falls B-PII
+and O
+send O
+an O
+emergency O
+to O
+a O
+specific B-PII
+contact. I-PII
+
+As O
+a O
+FABS O
+user, O
+I O
+want O
+to O
+see O
+correct O
+status O
+labels O
+on O
+the O
+Submission O
+Dashboard, O
+so O
+that O
+I O
+can O
+quickly O
+see O
+my B-PII
+submission I-PII
+history. I-PII
+
+As O
+a O
+researcher, B-Data Subject
+I O
+want O
+to O
+have O
+a O
+group-level O
+repository O
+for O
+sharing B-Processing
+papers B-PII
+or O
+reviews B-PII
+or O
+comments B-PII
+with O
+other O
+researchers. O
+
+As O
+an O
+asset B-Data Subject
+manager, I-Data Subject
+I O
+want O
+to O
+be O
+assured B-Processing
+that O
+there O
+is O
+a O
+formal B-PII
+plan I-PII
+for O
+the O
+disposition B-PII
+of O
+assets O
+if O
+the O
+IR O
+should O
+cease. O
+
+Information O
+about O
+an O
+individual's B-Data Subject
+sexual B-PII
+preferences I-PII
+
+Information O
+relating O
+to O
+an O
+individual's B-Data Subject
+credit B-PII
+standing. I-PII
+
+As O
+a O
+depositor, B-Data Subject
+I O
+want O
+to O
+link B-Processing
+datasets B-PII
+to O
+publications O
+in O
+Opus, O
+so O
+that O
+both O
+my B-PII
+data I-PII
+and O
+publications B-PII
+are O
+more O
+easily O
+discovered. B-Processing
+
+Information O
+about O
+an O
+individual's B-Data Subject
+age B-PII
+
+As O
+an O
+OlderPerson, B-Data Subject
+I O
+want O
+to O
+receive B-Processing
+reminders I-Processing
+on O
+my O
+appointments. B-PII
+
+Information O
+about O
+an O
+individual's B-Data Subject
+gender B-PII
+
+As O
+a O
+ResearcherGovernment B-Data Subject
+Publisher, I-Data Subject
+I O
+want O
+to O
+add B-Processing
+general O
+country O
+names O
+to O
+my O
+dataset O
+that O
+only O
+contains O
+country O
+codes, O
+so O
+that O
+my O
+dataset B-PII
+is O
+more O
+readable. O
+
+Information O
+about O
+an O
+individual's B-Data Subject
+employment B-PII
+history I-PII
+
+As O
+a O
+SocialCaregiver, B-Data Subject
+I O
+want O
+ALFRED O
+to O
+remind B-Processing
+me O
+of O
+the O
+things B-PII
+I O
+need O
+to O
+bring O
+to O
+the O
+person B-Data Subject
+I O
+care O
+for. O
+
+As O
+a O
+camp B-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+modify B-Processing
+the O
+information B-PII
+of I-PII
+enrolled O
+campers, B-Data Subject
+so O
+that O
+I O
+can O
+keep O
+the O
+campers B-PII
+information I-PII
+up O
+to O
+date. O
+
+As O
+an O
+asset B-Data Subject
+manager, I-Data Subject
+I O
+want O
+to O
+be O
+assured B-Processing
+that O
+the O
+redundant B-PII
+copies I-PII
+are O
+continuously O
+monitored B-Processing
+for O
+unwanted O
+changes, B-Processing
+and O
+that O
+if/when O
+changes B-Processing
+do O
+occur, O
+there O
+is O
+a O
+mechanism O
+by O
+which O
+I O
+can O
+determine B-Processing
+the O
+original B-PII
+object I-PII
+and O
+restore B-Processing
+it O
+to O
+all O
+copies. B-PII
+
+Global O
+position O
+system O
+coordinates O
+of O
+a O
+user's B-Data Subject
+location. B-PII
+
+As O
+a O
+moderator, B-Data Subject
+I O
+want O
+to O
+browse B-Processing
+through O
+previous O
+games, B-PII
+so O
+that O
+I O
+can O
+find B-Processing
+the O
+previous O
+game B-PII
+I’m O
+looking O
+for. O
+
+Information O
+about O
+an O
+individual's B-Data Subject
+health. B-PII
+
+As O
+an O
+Applicant, B-Data Subject
+I O
+want O
+to O
+Submit B-Processing
+Supporting B-PII
+Documentation, I-PII
+so O
+that O
+I O
+can O
+satisfy O
+documentation O
+requirements O
+for O
+my O
+application. B-PII
+
+As O
+a O
+Publisher, B-Data Subject
+I O
+want O
+to O
+add B-Processing
+type O
+information O
+to O
+my O
+data, B-PII
+so O
+that O
+it O
+is O
+more O
+useful O
+to O
+others O
+and O
+can O
+be O
+used O
+better O
+with O
+tools O
+like O
+visualization O
+programs. O
+
+As O
+a O
+authenticateduser, B-Data Subject
+I O
+want O
+to O
+edit B-Processing
+my O
+session, B-PII
+so O
+that O
+if O
+I O
+make O
+a O
+mistake, O
+I O
+can O
+correct O
+it. O
+
+As O
+an O
+Archivist, B-Data Subject
+I O
+want O
+to O
+create B-Processing
+and O
+edit B-Processing
+Agent B-Data Subject
+records. B-PII
+
+As O
+a O
+Researcher, B-Data Subject
+working O
+with O
+data O
+in O
+NetCDF, O
+I O
+want O
+NetCDF O
+integration, O
+so O
+that O
+I O
+can O
+store B-Processing
+my O
+data B-PII
+in O
+plaintext O
+while O
+still O
+retaining O
+its O
+metadata. O
+
+As O
+a O
+ResearcherGovernment B-Data Subject
+Publisher, I-Data Subject
+I O
+want O
+to O
+add B-Processing
+reference O
+data O
+on O
+inflation O
+to O
+my O
+spending B-PII
+dataset, I-PII
+so O
+that O
+the O
+spending O
+lines O
+in O
+my O
+dataset B-PII
+is O
+more O
+understandable. O
+
+As O
+a O
+team B-Data Subject
+member, I-Data Subject
+I O
+want O
+to O
+know B-Processing
+when O
+meetings B-PII
+are, O
+so O
+that O
+I O
+can O
+plan O
+accordingly. O
+
+Information O
+about O
+what O
+a O
+person B-Data Subject
+knows B-PII
+or O
+believes B-PII
+
+As O
+a O
+Publisher, B-Data Subject
+I O
+want O
+to O
+publish B-Processing
+a O
+dataset, B-PII
+so O
+that O
+I O
+can O
+view O
+just O
+the O
+dataset O
+with O
+a O
+few O
+people. O
+
+As O
+a O
+Staff B-Data Subject
+member, I-Data Subject
+I O
+want O
+to O
+Manage B-Processing
+Bonds, B-PII
+so O
+that O
+I O
+can O
+track B-Processing
+and O
+manage B-Processing
+bonds B-PII
+throughout O
+the O
+lifecycle O
+of O
+the O
+project O
+until O
+release. O
+
+A O
+visual O
+representation O
+or O
+image O
+of O
+an O
+individual B-Data Subject
+e.g. O
+profile B-PII
+photo. I-PII
+
+As O
+an O
+OlderPerson, B-Data Subject
+I O
+want O
+to O
+receive O
+specific O
+tips O
+how O
+to O
+reduce B-Processing
+my O
+health B-PII
+impairments I-PII
+without O
+medication. O
+
+As O
+a O
+moderator, B-Data Subject
+I O
+want O
+to O
+copy/paste O
+stories O
+from O
+a O
+spreadsheet, O
+so O
+that O
+I O
+can O
+get O
+started O
+more O
+quickly. O
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+have O
+accurate O
+and O
+complete O
+data O
+related O
+to O
+PPoPCode B-PII
+and O
+PPoPCongressionalDistrict. B-PII
+
+As O
+an O
+administrator, B-Data Subject
+I O
+want O
+to O
+assign B-Processing
+RAC B-Data Subject
+staff I-Data Subject
+to O
+different O
+user B-PII
+groups, I-PII
+so O
+that O
+I O
+can O
+control O
+read/write O
+access. O
+
+As O
+a O
+Postgraduate B-Data Subject
+Convenor, I-Data Subject
+I O
+want O
+to O
+receive B-Processing
+regular O
+summary O
+reports O
+of O
+research O
+data, O
+so O
+that O
+I O
+understand B-Processing
+trends O
+in O
+data B-PII
+use I-PII
+among O
+staff B-Data Subject
+and O
+postgraduate B-Data Subject
+students. I-Data Subject
+
+As O
+a O
+moderator, B-Data Subject
+I O
+want O
+to O
+enter O
+the O
+agreed-upon O
+estimate, O
+so O
+that O
+we O
+can O
+move O
+on O
+to O
+the O
+next O
+item O
+when O
+we O
+agree. O
+
+As O
+a O
+camp B-Data Subject
+counselor, I-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+take B-Processing
+attendance B-PII
+of O
+my O
+assigned B-PII
+kids, I-PII
+so O
+that O
+I O
+can O
+make B-Processing
+ensure I-Processing
+everybody O
+is O
+accounted O
+for. O
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+ensure O
+that O
+an O
+update B-Processing
+of I-Processing
+explore I-Processing
+never O
+leads O
+to O
+silent O
+loss O
+of O
+data B-PII
+or O
+data B-PII
+available O
+for O
+explore. B-Processing
+
+As O
+a O
+hydrator B-Data Subject
+user, I-Data Subject
+I O
+want O
+to O
+ensure O
+that O
+all O
+dataset B-PII
+instances I-PII
+created B-Processing
+by O
+apps O
+are O
+available O
+as O
+sinks O
+and O
+sources O
+for O
+pipelines. O
+
+As O
+an O
+Applicant, B-Data Subject
+I O
+want O
+to O
+Request B-Processing
+a O
+Plan B-PII
+Review I-PII
+Meeting, I-PII
+so O
+that O
+I O
+can O
+meet O
+with O
+the O
+Plan O
+Review O
+Staff O
+regarding O
+the O
+plan O
+review. O
+
+As O
+a O
+summit B-Data Subject
+coordinator, I-Data Subject
+I O
+want O
+to O
+list O
+an O
+agenda O
+for O
+my O
+summit, O
+so O
+that O
+I O
+can O
+entice B-Processing
+attendees B-Data Subject
+and O
+give B-Processing
+positive O
+feedback B-PII
+to O
+presenters O
+to O
+encourage O
+participation. O
+
+As O
+a O
+funder, B-Data Subject
+I O
+want O
+to O
+know B-Processing
+how O
+secure O
+data B-PII
+is, O
+so O
+that O
+I O
+can O
+ensure O
+legal O
+compliance. O
+
+The O
+contents B-PII
+of I-PII
+Emails I-PII
+that O
+an O
+individual B-Data Subject
+sends B-Processing
+or O
+receives. B-Processing
+
+Personalisation B-PII
+of I-PII
+interfaces I-PII
+presented O
+to O
+the O
+user B-Data Subject
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+search B-Processing
+and O
+discover B-Processing
+music O
+by O
+exploiting O
+enriched O
+metadata O
+and O
+image O
+tags, O
+so O
+that O
+I O
+find O
+related O
+artists, O
+new O
+genre, O
+or O
+other O
+relevant B-PII
+listening I-PII
+path. I-PII
+
+As O
+a O
+faculty B-Data Subject
+member, I-Data Subject
+I O
+want O
+to O
+upload B-Processing
+my O
+scholarly B-PII
+work I-PII
+to O
+the O
+repository, O
+so O
+that O
+I O
+can O
+reach O
+a O
+non-academic O
+audience, O
+expand O
+my O
+influence O
+within O
+my O
+academic O
+community, O
+and O
+use O
+it O
+for O
+teaching. O
+
+As O
+a O
+depositor, B-Data Subject
+I O
+want O
+to O
+link O
+to O
+data O
+stored O
+in O
+external O
+repositories, O
+so O
+that O
+I O
+can O
+store B-Processing
+my O
+data B-PII
+in O
+an O
+appropriate O
+repository O
+but O
+still O
+register O
+it O
+with O
+the O
+University O
+and O
+I O
+don't O
+have O
+to O
+deposit B-Processing
+my O
+data B-PII
+in O
+multiple O
+places. O
+
+Information O
+about O
+and O
+including O
+connections B-PII
+of O
+an O
+individual B-Data Subject
+in O
+a O
+social B-PII
+network I-PII
+
+Personalization B-Processing
+of O
+service O
+or O
+activity B-PII
+for O
+the O
+user B-Data Subject
+
+As O
+an O
+API B-Data Subject
+User, I-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+use B-Processing
+metadata B-PII
+to O
+get O
+results O
+from O
+multiple O
+datasets, O
+So O
+that O
+I O
+can O
+build O
+user O
+experiences O
+based O
+on O
+more O
+than O
+one O
+dataset O
+more O
+easily. O
+
+As O
+an O
+app B-Data Subject
+developer, I-Data Subject
+I O
+want O
+to O
+create B-Processing
+a O
+dataset B-PII
+instance I-PII
+with O
+a O
+specific O
+version O
+of O
+a O
+dataset O
+type. O
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+get O
+the O
+hours O
+of O
+each O
+recycling O
+facility, O
+so O
+that O
+I O
+can O
+arrange B-Processing
+drop-offs O
+on O
+my O
+off B-PII
+days I-PII
+or O
+during O
+after-work O
+hours. O
+
+As O
+a O
+moderator, B-Data Subject
+I O
+want O
+to O
+log B-Processing
+in I-Processing
+using O
+my O
+account B-PII
+name B-PII
+and O
+password, B-PII
+so O
+that O
+I O
+can O
+start O
+using O
+the O
+application. O
+
+Information O
+on O
+the O
+calls B-PII
+that O
+an O
+individual B-Data Subject
+has O
+made. O
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+enter B-Processing
+metadata B-PII
+/ O
+describe O
+an O
+experiment O
+protocol O
+before O
+a O
+file O
+is O
+even O
+created. O
+
+Information O
+about O
+professional B-PII
+evaluations I-PII
+associated O
+with O
+an O
+individual B-Data Subject
+
+As O
+a O
+researcher, B-Data Subject
+I O
+want O
+to O
+see B-Processing
+the O
+sections O
+on O
+roles B-PII
+submitted B-Processing
+by O
+other O
+researchers B-Data Subject
+in O
+my O
+department, B-PII
+so O
+that O
+I O
+can O
+see O
+if O
+we O
+could O
+share B-Processing
+data O
+manager O
+posts. B-PII
+
+As O
+a O
+user B-Data Subject
+researcher, I-Data Subject
+I O
+want O
+to O
+begin O
+drafting O
+a O
+research O
+plan, O
+so O
+that O
+I O
+can O
+begin O
+recruiting B-Processing
+participants. B-PII
+
+As O
+an O
+Applicant, B-Data Subject
+I O
+want O
+to O
+Satisfy B-Processing
+Hearing B-PII
+Requirements, I-PII
+so O
+that O
+I O
+can O
+ensure O
+all O
+pre-hearing O
+requirements O
+are O
+satisfied O
+in O
+time O
+for O
+the O
+hearing. O
+
+As O
+a O
+data B-Data Subject
+reuser, I-Data Subject
+I O
+want O
+to O
+search O
+the O
+archive O
+through O
+the O
+web, O
+so O
+that O
+I O
+can O
+easily O
+find B-Processing
+data O
+relevant O
+to O
+my O
+needs. B-PII
+
+Information O
+relating O
+to O
+an O
+individual's B-Data Subject
+credit B-PII
+score. I-PII
+
+As O
+an O
+OlderPerson, B-Data Subject
+I O
+want O
+to O
+have O
+ALFRED O
+to O
+initiate B-Processing
+questions, B-PII
+but O
+it O
+should O
+be O
+in O
+the O
+domains O
+of O
+my O
+interest B-PII
+such O
+as O
+cinema, O
+exhibitions, O
+cooking. O
+
+As O
+a O
+moderator, B-Data Subject
+I O
+want O
+to O
+edit O
+an O
+item O
+in O
+the O
+list O
+of O
+items O
+to O
+be O
+estimated, O
+so O
+that O
+I O
+can O
+make O
+it O
+better O
+reflect O
+the O
+team's O
+understanding O
+of O
+the O
+item. O
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+take B-Processing
+a O
+picture B-PII
+or O
+upload B-Processing
+an O
+image, B-PII
+so O
+that O
+I O
+am O
+recommended B-Processing
+with O
+videos O
+related O
+to O
+that O
+picture B-PII
+or O
+image. B-PII
+
+As O
+a O
+MedicalCaregiver, B-Data Subject
+I O
+want O
+to O
+have O
+ALFRED O
+to O
+be O
+able O
+to O
+determine B-Processing
+the O
+user's B-Data Subject
+blood B-PII
+pressure. I-PII
+
+Specifies O
+duration O
+for O
+storage O
+of O
+personal B-PII
+data I-PII
+
+As O
+a O
+researcher, B-Data Subject
+I O
+want O
+to O
+record B-Processing
+my O
+intention B-PII
+to O
+share B-Processing
+data B-PII
+I O
+have O
+collected B-Processing
+under O
+terms O
+of O
+a O
+particular O
+licence, O
+so O
+that O
+other O
+researchers B-Data Subject
+who O
+use B-Processing
+the O
+data O
+understand O
+the O
+rights O
+of O
+use. O
+
+As O
+an O
+owner, B-Data Subject
+I O
+want O
+to O
+be O
+sure O
+that O
+USAspending B-Data Subject
+only O
+send B-Processing
+grant B-PII
+records I-PII
+to O
+my O
+system. O
+
+Information O
+that O
+relates O
+to O
+an O
+individual's B-Data Subject
+personality B-PII
+(e.g., O
+categorization O
+in O
+terms O
+of O
+the O
+Big O
+Five O
+personality O
+traits) O
+
+As O
+a O
+Staff B-Data Subject
+member, I-Data Subject
+I O
+want O
+to O
+Record B-Processing
+an O
+Internal B-PII
+Note, I-PII
+so O
+that O
+I O
+can O
+share B-Processing
+information B-PII
+with O
+other O
+Staff B-Data Subject
+collaborating B-Processing
+on O
+the O
+record. O
+
+As O
+a O
+non-Duke B-Data Subject
+researcher, I-Data Subject
+I O
+want O
+to O
+describe B-Processing
+my O
+team B-PII
+and O
+mine's O
+objects O
+in O
+the O
+repository O
+after O
+they've O
+been O
+deposited O
+if O
+we've O
+been O
+assigned B-Processing
+permission B-PII
+to O
+edit B-Processing
+metadata. B-PII
+
+As O
+a O
+Planning B-Data Subject
+Staff I-Data Subject
+member, I-Data Subject
+I O
+want O
+to O
+Evaluate O
+Consistency O
+with O
+the O
+Comprehensive O
+Plan, O
+so O
+that O
+I O
+can O
+complete B-Processing
+my O
+required B-PII
+review I-PII
+of O
+a O
+plan O
+set O
+and/or O
+application. O
+
+As O
+a O
+site B-Data Subject
+member, I-Data Subject
+I O
+want O
+to O
+fill B-Processing
+out I-Processing
+an O
+application B-PII
+to O
+become O
+a O
+Certified O
+Scrum O
+Trainer, O
+so O
+that O
+I O
+can O
+teach O
+CSM O
+and O
+CSPO O
+courses O
+and O
+certify O
+others. O
+
+As O
+a O
+camp B-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+create B-Processing
+an O
+avenue O
+so O
+parents B-Data Subject
+can O
+submit B-Processing
+feedback B-PII
+and O
+general B-PII
+concerns, I-PII
+so O
+that O
+I O
+can O
+keep O
+improving O
+the O
+services O
+I O
+provide. O
+
+This O
+property O
+associates O
+a O
+data B-PII
+subject I-PII
+with O
+an O
+instance O
+of O
+legal O
+data O
+handling O
+or O
+consent O
+
+As O
+a O
+patron, B-Data Subject
+I O
+want O
+to O
+create B-Processing
+a O
+personal B-PII
+account I-PII
+to O
+request B-Processing
+email B-PII
+notification I-PII
+when O
+new O
+version O
+of O
+report/dataset O
+is O
+available. O
+
+As O
+a O
+FABS B-Data Subject
+user, I-Data Subject
+I O
+want O
+to O
+submission O
+errors O
+to O
+accurately O
+represent O
+FABS O
+errors, O
+so O
+that O
+I O
+know O
+why O
+my O
+submission B-PII
+didn't O
+work. O
+
+As O
+a O
+PI, B-Data Subject
+I O
+want O
+to O
+plan B-Processing
+what O
+kind O
+of O
+data B-PII
+I O
+want O
+to O
+record B-Processing
+or O
+store, B-Processing
+so O
+that O
+I O
+can O
+ensure O
+it O
+will O
+possible O
+to O
+store B-Processing
+it. O
+
+As O
+an O
+OlderPerson, B-Data Subject
+I O
+want O
+to O
+have B-Processing
+video B-PII
+conversation I-PII
+with O
+others. B-Data Subject
+
+As O
+a O
+moderator, B-Data Subject
+I O
+want O
+to O
+start O
+a O
+round O
+by O
+entering O
+an O
+item O
+in O
+a O
+single O
+multi-line O
+text O
+field, O
+so O
+that O
+we O
+can O
+estimate O
+it. O
+
+Information O
+about O
+an O
+individual's B-Data Subject
+proclivities B-PII
+in I-PII
+a I-PII
+sexual I-PII
+context I-PII
+
+As O
+a O
+moderator, B-Data Subject
+I O
+want O
+to O
+estimate O
+a O
+story O
+we O
+estimated O
+earlier O
+in O
+the O
+session B-PII
+again, O
+so O
+that O
+we O
+can O
+give O
+a O
+new O
+estimate O
+if O
+we O
+feel O
+different O
+about O
+the O
+story O
+after O
+estimating O
+other O
+related O
+stories. O
+
+As O
+a O
+depositor, B-Data Subject
+I O
+want O
+to O
+track B-Processing
+downloads B-PII
+of O
+my O
+data, B-PII
+so O
+that O
+I O
+can O
+demonstrate O
+the O
+impact O
+of O
+my O
+work. B-PII
+
+As O
+a O
+Data B-Data Subject
+Publishing I-Data Subject
+User, I-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+Hide B-Processing
+a O
+dataset B-PII
+that O
+I O
+have O
+already O
+added O
+as O
+Public, O
+So O
+that O
+I O
+can O
+fix O
+my O
+mistakes O
+or O
+have O
+a O
+dataset O
+primarily O
+for O
+my O
+own O
+use. O
+
+Information O
+about O
+an O
+individual's B-Data Subject
+physical B-PII
+height I-PII
+
+As O
+a O
+site B-Data Subject
+visitor, I-Data Subject
+I O
+want O
+to O
+have B-Processing
+articles I-Processing
+that O
+interest B-PII
+me O
+and O
+are O
+easy O
+to O
+get O
+to, O
+so O
+that O
+I O
+come O
+to O
+the O
+site O
+for O
+my O
+agile O
+news O
+and O
+learning. O
+
+As O
+an O
+estimator, B-Data Subject
+I O
+want O
+to O
+see O
+the O
+item O
+we’re O
+estimating, O
+so O
+that O
+I O
+know O
+what O
+I’m O
+giving O
+an O
+estimate O
+for. O
+
+An O
+Internet B-PII
+protocol I-PII
+(IP) I-PII
+address I-PII
+of O
+a O
+device O
+used O
+by O
+an O
+individual. B-Data Subject
+
+As O
+an O
+admin, B-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+have O
+a O
+dashboard O
+that O
+shows B-Processing
+usage B-PII
+stats I-PII
+and O
+locations, B-PII
+so O
+that O
+I O
+can O
+identify O
+the O
+neighbourhoods O
+with O
+the O
+largest O
+number O
+of O
+drop-offs O
+and O
+to O
+try O
+getting O
+more O
+facilities O
+involved. O
+
+As O
+an O
+app B-Data Subject
+developer, I-Data Subject
+I O
+want O
+to O
+deploy O
+a O
+new O
+version O
+of O
+a O
+dataset O
+type O
+as O
+part O
+of O
+deploying O
+a O
+new O
+version O
+of O
+the O
+app O
+that O
+includes O
+it O
+and O
+I O
+expect O
+that O
+all O
+dataset B-PII
+instances I-PII
+of O
+that O
+type O
+that O
+were O
+created B-Processing
+as O
+part O
+of O
+the O
+app O
+deployment O
+start O
+using O
+the O
+new O
+code. O
+
+As O
+a O
+researcher, B-Data Subject
+I O
+want O
+to O
+have O
+the O
+ability O
+to O
+attach B-Processing
+detailed O
+meta B-PII
+data I-PII
+to O
+the O
+data B-PII
+and O
+entries B-PII
+that O
+I O
+create. B-Processing
+
+Information O
+that O
+relates O
+to O
+an O
+individual's B-Data Subject
+browsing B-PII
+behaviour. I-PII
+
+As O
+a O
+trainingcoordinator, B-Data Subject
+I O
+want O
+to O
+have O
+an O
+admin B-Processing
+view I-Processing
+where O
+all O
+trainee B-PII
+information I-PII
+is O
+shown O
+and O
+can O
+be O
+filtered O
+to O
+show O
+a O
+single O
+training O
+session, O
+so O
+that O
+I O
+can O
+see O
+WTF O
+is O
+happening. O
+
+As O
+a O
+attendee, B-Data Subject
+I O
+want O
+to O
+register B-Processing
+for O
+a O
+summit, O
+so O
+that O
+I O
+can O
+reserve B-Processing
+my O
+seat B-PII
+at O
+the O
+summit. O
+
+As O
+a O
+Zooniverse B-Data Subject
+admin, I-Data Subject
+I O
+want O
+to O
+know O
+whether O
+I O
+should O
+educate B-Processing
+a O
+volunteer B-Data Subject
+with O
+text, O
+an O
+image, O
+or O
+a O
+video. O
+
+Information O
+about O
+an O
+individual's B-Data Subject
+opinions B-PII
+
+Information O
+about O
+an O
+individual's B-Data Subject
+divorce(s). B-PII
+
+As O
+a O
+publisher, B-Data Subject
+I O
+want O
+to O
+embed B-Processing
+an O
+interactive O
+preview O
+of O
+my O
+data B-PII
+on O
+my O
+site, O
+so O
+that O
+users B-Data Subject
+can O
+be O
+encouraged O
+that O
+this O
+is O
+the O
+correct O
+data O
+for O
+them. O
+
+As O
+a O
+anonymoususer, B-Data Subject
+I O
+want O
+to O
+receive O
+a O
+notification O
+when O
+I O
+submit O
+a O
+session, O
+so O
+that O
+know B-Processing
+that O
+my O
+session B-PII
+went O
+through O
+ok. O
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+identify B-Processing
+persons B-PII
+in O
+videos, O
+and O
+receive O
+related O
+information B-PII
+about I-PII
+them. O
+
+As O
+an O
+Admin, B-Data Subject
+I O
+want O
+to O
+see B-Processing
+key O
+metrics O
+about O
+usage B-PII
+such O
+as O
+users, B-Data Subject
+API O
+usage, O
+downloads, O
+so O
+that O
+that O
+I O
+know O
+how O
+things O
+are O
+going. O
+
+Information O
+about O
+an O
+individual's B-Data Subject
+credit B-PII
+card I-PII
+number I-PII
+
+Information O
+an O
+individual's B-Data Subject
+sexual B-PII
+fetishes I-PII
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+update B-Processing
+a O
+single O
+property B-PII
+of O
+a O
+dataset B-PII
+instance I-PII
+without O
+knowing O
+all O
+other O
+properties. B-PII
+
+As O
+an O
+OlderPerson, B-Data Subject
+I O
+want O
+to O
+have B-Processing
+an O
+introduction O
+conversation B-PII
+with O
+ALFRED, O
+so O
+that O
+I O
+can O
+learn B-Processing
+everything O
+about O
+him O
+and O
+he O
+about B-PII
+me. I-PII
+
+As O
+a O
+MedicalCaregiver, B-Data Subject
+I O
+want O
+to O
+give B-Processing
+corrective B-PII
+feedback I-PII
+if O
+exercises O
+are O
+performed O
+wrong, O
+too O
+much O
+or O
+in O
+any O
+other O
+way O
+harmful O
+to O
+the O
+user. O
+
+As O
+a O
+Publisher, B-Data Subject
+I O
+want O
+to O
+unpublish B-Processing
+a O
+data B-PII
+package, I-PII
+so O
+that O
+it O
+is O
+no O
+longer O
+visible O
+to O
+anyone. O
+
+As O
+an O
+admin, B-Data Subject
+I O
+want O
+to O
+prefilter O
+nudity B-PII
+content. I-PII
+
+As O
+a O
+Publisher, B-Data Subject
+I O
+want O
+to O
+store B-Processing
+my O
+data B-PII
+quickly O
+and O
+easily O
+online. O
+
+As O
+a O
+moderator, B-Data Subject
+I O
+want O
+to O
+see O
+all O
+items O
+we O
+try O
+to O
+estimate O
+this O
+session, B-PII
+so O
+that O
+I O
+can O
+answer O
+questions B-PII
+about O
+the O
+current O
+story O
+such O
+as O
+"does O
+this O
+include O
+___". O
+
+As O
+a O
+Research B-Data Subject
+Information I-Data Subject
+manager, I-Data Subject
+I O
+want O
+to O
+integrate O
+the O
+archive O
+with O
+CRIS, O
+so O
+that O
+I O
+can O
+analyse O
+impact O
+of O
+research O
+data O
+publication O
+I O
+can O
+link B-Processing
+funding B-PII
+to O
+all O
+of O
+the O
+outputs O
+it O
+produces. O
+
+As O
+a O
+site B-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+edit B-Processing
+any O
+site O
+member B-Data Subject
+profile, B-PII
+so O
+that O
+I O
+can O
+correct B-Processing
+problems I-Processing
+for O
+members. B-Data Subject
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+create B-Processing
+an O
+acocunt, B-PII
+so O
+that O
+I O
+can O
+create B-Processing
+my O
+own B-PII
+profile. I-PII
+
+As O
+a O
+dataset B-Data Subject
+developer, I-Data Subject
+I O
+want O
+to O
+have O
+the O
+option O
+of O
+implementing O
+a O
+migration O
+procedure O
+that O
+can O
+be O
+run O
+after O
+an O
+upgrade B-Processing
+of O
+a O
+dataset B-PII
+instance I-PII
+to O
+a O
+new O
+version O
+of O
+it O
+type. O
+
+As O
+an O
+archivist, B-Data Subject
+I O
+want O
+to O
+ensure B-Processing
+that O
+emails B-PII
+sent O
+about O
+specific O
+objects O
+contain O
+accurate O
+citation O
+information, O
+so O
+that O
+I O
+can O
+confirm O
+which O
+object O
+is O
+being O
+referred O
+to. O
+
+AS O
+an O
+externalcoordinator, B-Data Subject
+I O
+want O
+to O
+access B-Processing
+data B-PII
+from O
+Bath O
+collaborators B-Data Subject
+off O
+campus, O
+so O
+that O
+I O
+can O
+collaborate B-Processing
+effectively. O
+
+As O
+a O
+parent, B-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+see B-Processing
+and O
+edit B-Processing
+my O
+enrolled B-PII
+children I-PII
+to O
+the O
+camp O
+year, O
+so O
+that O
+I O
+can O
+know O
+who O
+I O
+already O
+enrolled O
+to O
+camp, O
+who O
+is O
+still O
+pending O
+admission O
+etc. O
+
+Information O
+that O
+describes O
+an O
+individual’s B-Data Subject
+health, B-PII
+medical B-PII
+conditions I-PII
+or O
+health B-PII
+care I-PII
+
+As O
+a O
+researcher, B-Data Subject
+I O
+want O
+to O
+have O
+the O
+ability O
+to O
+attach B-Processing
+standard O
+meta B-PII
+data I-PII
+for O
+drug O
+responses, B-PII
+so O
+that O
+my O
+data B-PII
+can O
+later O
+be O
+searched B-Processing
+for O
+and O
+understood. O
+
+Personal O
+data O
+about O
+characteristics B-PII
+of O
+an O
+individual B-Data Subject
+that O
+are O
+internal O
+i.e. O
+cannot O
+be O
+seen O
+or O
+observed O
+
+As O
+a O
+MedicalCaregiver, B-Data Subject
+I O
+want O
+to O
+locate B-Processing
+the O
+ALFRED O
+user. B-Data Subject
+
+As O
+a O
+collection B-Data Subject
+curator, I-Data Subject
+I O
+want O
+to O
+be O
+able O
+require B-Processing
+authentication I-Processing
+to O
+access B-Processing
+objects O
+unless O
+the O
+request O
+is O
+coming O
+from O
+a O
+whitelisted B-PII
+IP I-PII
+address, I-PII
+list B-PII
+of I-PII
+addresses. I-PII
+
+As O
+an O
+OlderPerson, B-Data Subject
+I O
+want O
+to O
+use O
+ALFRED O
+to O
+send B-Processing
+messages. B-PII
+
+As O
+a O
+camp B-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+see B-Processing
+only O
+events B-PII
+for O
+a O
+specific O
+group/groups O
+on O
+the O
+event O
+calendar, O
+so O
+that O
+I O
+can O
+easily O
+read B-Processing
+the O
+data B-PII
+on O
+the O
+calendar O
+without O
+too O
+much O
+clutter. O
+
+As O
+an O
+OlderPerson, B-Data Subject
+I O
+want O
+to O
+have O
+an O
+ALFRED O
+device O
+that O
+only O
+listens B-Processing
+to O
+me O
+when O
+I O
+ask O
+it O
+to. O
+
+As O
+a O
+trainer, B-Data Subject
+I O
+want O
+to O
+be B-Processing
+notified I-Processing
+about O
+the O
+results O
+of O
+surveys B-PII
+about O
+my O
+classes, O
+so O
+that O
+I O
+can O
+read B-Processing
+them. O
+
+As O
+a O
+Repository B-Data Subject
+Manager, I-Data Subject
+I O
+want O
+a O
+tool O
+that O
+makes O
+it O
+easy O
+for O
+researchers/ B-Data Subject
+users B-Data Subject
+to O
+add B-Processing
+basic O
+metadata B-PII
+to O
+their O
+research B-PII
+data, I-PII
+so O
+that O
+it O
+is O
+more O
+findable O
+and O
+therefore O
+useful. O
+
+Personal O
+Data O
+that O
+can O
+be O
+observed O
+by O
+another O
+person O
+i.e. O
+has O
+external B-PII
+characteristics I-PII
+that O
+make O
+it O
+visible O
+
+As O
+a O
+Customer, B-Data Subject
+I O
+want O
+to O
+Create B-Processing
+a O
+Customer O
+Portal O
+User B-PII
+Account, I-PII
+so O
+that O
+I O
+can O
+log B-Processing
+on I-Processing
+to O
+the O
+Customer O
+Portal O
+and O
+perform B-Processing
+transactions B-PII
+that O
+first O
+require O
+user B-PII
+authentication. I-PII
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+have B-Processing
+that O
+my O
+Twitter B-PII
+Tweets O
+to O
+appear O
+in O
+Neurohub, O
+so O
+that O
+other O
+researchers B-Data Subject
+in O
+the O
+centre O
+can O
+see O
+what O
+I O
+am O
+up O
+to. O
+
+As O
+a O
+Cornell B-Data Subject
+faculty I-Data Subject
+member, I-Data Subject
+I O
+want O
+to O
+be O
+notified B-Processing
+if O
+someone O
+downloads B-Processing
+any O
+of O
+my O
+items B-PII
+or O
+files, B-PII
+so O
+that O
+I O
+can O
+follow O
+usage B-PII
+and O
+see B-Processing
+what B-PII
+others O
+are O
+most B-PII
+interested I-PII
+in O
+reading. O
+
+As O
+a O
+Bath B-Data Subject
+Data I-Data Subject
+Archive I-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+require O
+a O
+minimum O
+set O
+of O
+metadata, O
+so O
+that O
+consistent O
+quality O
+of O
+metadata O
+is O
+maintained. O
+
+As O
+a O
+camp B-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+keep B-Processing
+track I-Processing
+of O
+which O
+camper B-Data Subject
+submitted B-Processing
+which O
+forms, B-PII
+so O
+that O
+legal O
+issues O
+are O
+avoided. O
+
+As O
+a O
+Staff B-Data Subject
+member, I-Data Subject
+I O
+want O
+to O
+Schedule B-Processing
+a O
+Meeting, B-PII
+so O
+that O
+I O
+can O
+bring O
+the O
+required O
+parties B-PII
+together O
+at O
+a O
+specific O
+date/time O
+to O
+address O
+an O
+issue. O
+
+process O
+by O
+which O
+personal B-Data Subject
+data I-Data Subject
+is O
+irreversibly B-Processing
+altered I-Processing
+in O
+such O
+a O
+way O
+that O
+a O
+data B-Data Subject
+subject I-Data Subject
+can O
+no O
+longer O
+be O
+identified B-Processing
+directly O
+or O
+indirectly, O
+either O
+by O
+the O
+data O
+controller O
+alone O
+or O
+in O
+collaboration O
+with O
+any O
+other O
+party O
+
+As O
+a O
+PI, B-Data Subject
+I O
+want O
+to O
+know B-Processing
+who B-Data Subject
+owns I-Data Subject
+the O
+data, B-PII
+so O
+that O
+I O
+know O
+what O
+I O
+am O
+allowed O
+to O
+do O
+with O
+it. O
+
+Information O
+about O
+an O
+individual's B-Data Subject
+personal B-PII
+possessions. I-PII
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+either O
+keep B-Processing
+a O
+logbook B-PII
+entry I-PII
+private O
+or O
+share O
+it O
+with O
+individuals B-Data Subject
+rather O
+than O
+groups. O
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+link B-Processing
+my O
+email B-PII
+account I-PII
+to O
+my O
+profile, B-PII
+so O
+that O
+I O
+can O
+get B-Processing
+a O
+temporary B-PII
+password I-PII
+in O
+case O
+I O
+forget O
+my O
+own O
+one. O
+
+Information O
+about O
+an O
+individual's B-Data Subject
+health B-PII
+record. I-PII
+
+Information O
+on O
+the O
+apartement(s) B-PII
+owned O
+by O
+an O
+individual. B-Data Subject
+
+As O
+a O
+Platform B-Data Subject
+Administrator, I-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+Hide B-Processing
+any O
+dataset B-PII
+already O
+added O
+as O
+Public, O
+So O
+that O
+I O
+can O
+maintain O
+Public/Hidden O
+status O
+for O
+other O
+users. O
+
+As O
+a O
+camp B-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+suspend B-Processing
+a O
+camper B-Data Subject
+who O
+had O
+behavioral B-PII
+problems. I-PII
+
+As O
+a O
+Data B-Data Subject
+Publishing I-Data Subject
+User, I-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+edit B-Processing
+a O
+dataset B-PII
+I O
+have O
+published, O
+So O
+that O
+I O
+can O
+correct O
+or O
+enhance O
+existing O
+data. O
+
+As O
+a O
+camp B-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+keep B-Processing
+track I-Processing
+of O
+the O
+usage B-PII
+of I-PII
+internal I-PII
+camp I-PII
+facilities, I-PII
+so O
+that O
+I O
+don't O
+create O
+conflicting O
+schedules O
+for O
+the O
+different O
+camp O
+groups. O
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+have B-Processing
+files B-PII
+I O
+might O
+accidentally B-Processing
+delete I-Processing
+to O
+be O
+restorable. B-Processing
+
+As O
+a O
+camp B-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+store B-Processing
+camper's B-Data Subject
+immediate O
+parent B-Data Subject
+or O
+guardian's B-Data Subject
+information, I-PII
+so O
+that O
+I O
+can O
+easily O
+call O
+to O
+notify B-Processing
+them O
+in O
+case O
+a O
+grossly O
+unacceptable B-PII
+behavior. I-PII
+
+As O
+a O
+Platform B-Data Subject
+Administrator, I-Data Subject
+I O
+want O
+to O
+have O
+a O
+view B-Processing
+on O
+all O
+datasets B-PII
+published O
+by O
+all O
+users, B-Data Subject
+So O
+that O
+I O
+can O
+perform O
+management B-Processing
+actions O
+on O
+any O
+dataset. B-PII
+
+Information O
+about O
+an O
+individual's B-Data Subject
+marriage(s). B-PII
+
+As O
+a O
+Cornell B-Data Subject
+faculty I-Data Subject
+member, I-Data Subject
+I O
+want O
+to O
+create O
+a O
+collection O
+for O
+my O
+documents, B-PII
+or O
+my O
+organization's B-Data Subject
+documents, B-PII
+and O
+apply O
+some O
+distinctive O
+branding O
+to O
+that O
+collection, O
+so O
+that O
+I O
+can O
+promote O
+my O
+work, B-PII
+or O
+that O
+of O
+my O
+organization. O
+
+As O
+a O
+camp B-Data Subject
+administrator, I-Data Subject
+I O
+want O
+to O
+be O
+quickly O
+log B-Processing
+attendance B-PII
+everyday, O
+so O
+that O
+I O
+can O
+track B-Processing
+which O
+kids B-Data Subject
+are O
+coming O
+in. O
+
+As O
+a O
+user, B-Data Subject
+I O
+want O
+to O
+be O
+able O
+to O
+view B-Processing
+a O
+map O
+display O
+of O
+the O
+special O
+waste O
+drop O
+off O
+sites O
+around O
+my O
+area. B-PII
+
