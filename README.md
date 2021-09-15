@@ -1,2 +1,4 @@
 # ner-privacy-engineering
-This repository will host our code, dataset, and the best model for our paper
+The code, dataset and best model from the Paper: "A Named Entity Recognition Based Approach for Privacy Requirements Engineering"
+
+Download the best model trined on BERT with WordNet Synonym Augmentation: https://s.id/G6iaR
