@@ -10,8 +10,9 @@ from flair.data import Sentence
 from flair.models import SequenceTagger
 
 # load the trained model
-model = SequenceTagger.load('ner-model.pt')# create example sentence
+model = SequenceTagger.load('ner-model.pt')
 
+# your user story
 sentence = Sentence('As an OlderPerson, I want to know exactly what ALFRED does with my personal data, and share it only on my specific permission.')
 
 # predict the tags
