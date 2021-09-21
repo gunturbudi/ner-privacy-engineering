@@ -5,7 +5,7 @@ Download the best model trained on BERT with WordNet Synonym Augmentation: https
 
 Then you can predict the privacy entities:
 
-```
+```{python}
 from flair.data import Sentence
 from flair.models import SequenceTagger
 
