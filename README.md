@@ -25,3 +25,16 @@ model.predict(sentence)
 print(sentence.to_tagged_string())
 
 ```
+
+Please kindly consider citing the following papers if you find this repository useful for your research.
+
+```
+@inproceedings{9582331,
+  author = {Herwanto, Guntur Budi and Quirchmayr, Gerald and Tjoa, A Min},
+  booktitle = {2021 IEEE 29th International Requirements Engineering Conference Workshops (REW)},
+  doi = {10.1109/REW53955.2021.00072},
+  pages = {406--411},
+  title = {{A Named Entity Recognition Based Approach for Privacy Requirements Engineering}},
+  year = {2021}
+}
+```
