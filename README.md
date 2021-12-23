@@ -1,4 +1,8 @@
 # A Named Entity Recognition Based Approach for Privacy Requirements Engineering
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5801370.svg)](https://doi.org/10.5281/zenodo.5801370)
+
+
 The code, dataset and best model from the Paper: "A Named Entity Recognition Based Approach for Privacy Requirements Engineering"
 
 Download the best model trained on BERT with WordNet Synonym Augmentation: https://s.id/G6iaR
