@@ -5,7 +5,7 @@
 
 The code, dataset and best model from the Paper: "A Named Entity Recognition Based Approach for Privacy Requirements Engineering"
 
-Download the best model trained on BERT with WordNet Synonym Augmentation: https://s.id/Ta7k
+Download the best model trained on BERT with WordNet Synonym Augmentation: https://s.id/Ta9a
 
 Then you can predict the privacy entities:
 
